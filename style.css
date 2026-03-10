@@ -62,3 +62,27 @@ footer{
     margin-top: 40px;
 }
 
+.footer{
+    background-color: #111;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+.skills{
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    margin:10px 0;
+}
+.projects{
+    background:white;
+    padding: 15px;
+    margin:10px 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+nav a:hover{
+    color:orange;
+}
